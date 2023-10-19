@@ -92,5 +92,5 @@ The Apache License - see [`LICENSE`](LICENSE) for more details
 
 ## Donate
 &emsp;If it helps you, you can buy me a coffue if you want.<br/>
-<img src="https://github.com/clickpaas/nvimide/blob/main/image/wechat.jpeg" width="200px" height="200px" />
-<img src="https://github.com/clickpaas/nvimide/blob/main/image/alipay.jpeg" width="200px" height="200px" />
+<img src="https://github.com/clickpaas/nvimide/blob/main/images/wechat.jpeg" width="200px" height="200px" />
+<img src="https://github.com/clickpaas/nvimide/blob/main/images/alipay.jpeg" width="200px" height="200px" />
